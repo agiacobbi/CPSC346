@@ -2,6 +2,7 @@
 Alex Giacobbi
 CPSC 346
 Project 1 - Programming C
+9/10/20
 */
 
 #include <stdio.h>
