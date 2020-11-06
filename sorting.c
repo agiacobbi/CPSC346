@@ -2,6 +2,8 @@
  * Alex Giacobbi
  * Project 4 - Multi thread sort
  * 11/06/2020
+ * To compile gcc -pthread sorting.c
+ * To run ./a.out
  */
 
 #include <pthread.h>
